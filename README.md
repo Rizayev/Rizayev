@@ -13,6 +13,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | MD to PDF | Markdown to PDF converter with live preview | [md2pdf-app.netlify.app](https://md2pdf-app.netlify.app) |
+| Focus Music | Curated music player for deep work and concentration with mood-based playlists | [focus.elsevar.dev](https://focus.elsevar.dev) |
 
 ### Contact
 
