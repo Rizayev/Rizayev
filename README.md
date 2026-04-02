@@ -13,14 +13,12 @@
 ```yaml
 name: Elsevar Rizayev
 role: Senior Backend Engineer
-company: GPS.AZ
 location: Baku, Azerbaijan
 experience: 13+ years in software development
 focus:
   - High-load systems & performance optimization
   - Clean Architecture & SOLID principles
   - DevOps & Infrastructure automation
-currently: Building scalable backend solutions at GPS.AZ
 freelance: Available for select projects
 website: elsevar.dev
 ```
@@ -93,12 +91,18 @@ website: elsevar.dev
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rizayev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizayev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Rizayev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rizayev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true" />
+</picture>picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rizayev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rizayev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
+</picture>picture>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizayev&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" />
+<img src="https://streak-stats.demolab.com/?user=Rizayev&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" />
 
 <br/>
 
@@ -112,23 +116,24 @@ website: elsevar.dev
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rizayev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rizayev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
 
-</div>
+  </div>
 
----
+  ---
 
-<div align="center">
+  <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Rizayev&label=Profile%20Views&color=6366F1&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=Rizayev&label=Profile%20Views&color=6366F1&style=for-the-badge" />
 
-<br/><br/>
+    <br/><br/>
 
-> *"The opinion of 10,000 men is of no value if none of them know anything about the subject."*
-> > — **Marcus Aurelius**
-> >
-> > <br/>
+    > *"The opinion of 10,000 men is of no value if none of them know anything about the subject."*
+    > — **Marcus Aurelius**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" width="100%" />
+    <br/>
 
-</div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" width="100%" />
+
+    </div>
+</picture>
